@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserCutting", "LaserCutting.csproj", "{9BEF6841-CF0E-46F0-828B-B52EA92F50AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserCutting.Models", "..\LaserCutting.Models\LaserCutting.Models.csproj", "{0A6A221B-7009-4514-861F-5C50B90907AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserCutting.Infraestructure", "..\LaserCutting.Infraestructure\LaserCutting.Infraestructure.csproj", "{6AE1627C-AAEB-4C68-83F3-2EBC4B598AF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaserCutting.Application", "..\LaserCutting.Application\LaserCutting.Application.csproj", "{981C4188-33B6-43D8-AD8B-4043F1A03E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BEF6841-CF0E-46F0-828B-B52EA92F50AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BEF6841-CF0E-46F0-828B-B52EA92F50AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BEF6841-CF0E-46F0-828B-B52EA92F50AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BEF6841-CF0E-46F0-828B-B52EA92F50AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A6A221B-7009-4514-861F-5C50B90907AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A6A221B-7009-4514-861F-5C50B90907AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A6A221B-7009-4514-861F-5C50B90907AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A6A221B-7009-4514-861F-5C50B90907AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE1627C-AAEB-4C68-83F3-2EBC4B598AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE1627C-AAEB-4C68-83F3-2EBC4B598AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE1627C-AAEB-4C68-83F3-2EBC4B598AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE1627C-AAEB-4C68-83F3-2EBC4B598AF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981C4188-33B6-43D8-AD8B-4043F1A03E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981C4188-33B6-43D8-AD8B-4043F1A03E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981C4188-33B6-43D8-AD8B-4043F1A03E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981C4188-33B6-43D8-AD8B-4043F1A03E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA486F2E-332F-4936-9F9D-FF3909EB2737}
+	EndGlobalSection
+EndGlobal
